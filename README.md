@@ -22,10 +22,12 @@
 - 📜 **High School Diploma** (GPA: 4.99)
 - 🎓 **Najot Ta'lim Bootcamp**
   - ✅ Foundation (C, Python) – 3.5 months
-  - 🔧 Fullstack Program (8 months) – Currently in **Month 5**
-    - Backend: Node.js, Express, NestJS
-    - Databases: MySQL, MongoDB, PostgreSQL
-    - Will continue with **React + Frontend** in the upcoming months.
+  - 
+  - 🔧 Fullstack Program (8 months)  
+    - ✅ **Backend (Finished)**: Node.js, Express, NestJS  
+    - ✅ **Databases (Finished)**: MySQL, MongoDB, PostgreSQL  
+    - 🚀 **Currently in Frontend**: React (in-progress)
+
 
 - 🎓 **New Uzbekistan University** (Started: 25th August 2025)  
   - Bachelor’s Degree (In-progress)  
