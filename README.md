@@ -29,9 +29,9 @@
 
 - 🎓 **New Uzbekistan University** (Started: 25th August 2025)  
   - Bachelor’s Degree (In-progress)  
-  - Focusing on **Computer Science & Software Engineering**  
+  - Focusing on **Computer Science & Cyber Security**  
   <p align="left">
-    <img src="https://newuu.uz/assets/public/images/logo-light.svg" alt="New Uzbekistan University" width="80"/>  
+    <a href="https://newuu.uz"><img src="https://newuu.uz/assets/public/images/logo-light.svg" alt="New Uzbekistan University" width="80"/></a>
   </p>
 ---
 
