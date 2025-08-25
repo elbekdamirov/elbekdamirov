@@ -27,6 +27,12 @@
     - Databases: MySQL, MongoDB, PostgreSQL
     - Will continue with **React + Frontend** in the upcoming months.
 
+- 🎓 **New Uzbekistan University** (Started: 25th August 2025)  
+  - Bachelor’s Degree (In-progress)  
+  - Focusing on **Computer Science & Software Engineering**  
+  <p align="left">
+    <img src="https://newuu.uz/assets/public/images/logo-light.svg" alt="New Uzbekistan University" width="80"/>  
+  </p>
 ---
 
 ### 🧰 Tech Stack & Tools
