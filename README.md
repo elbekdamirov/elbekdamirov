@@ -1,5 +1,10 @@
 <h2 align="center">👋 Hi, I'm Elbek Damirov – A Passionate Fullstack Developer from Uzbekistan</h2>
 
+
+<p align="center">
+  🌐 Check out my portfolio: <a href="https://damirov.uz" target="_blank">damirov.uz</a>
+</p>
+
 <p align="center">
   <a href="mailto:elbekdamirov0415@gmail.com"><img src="https://img.shields.io/badge/Email-elbekdamirov0415@gmail.com-red?style=flat-square&logo=gmail" /></a>
   <a href="https://t.me/elbek_damirov"><img src="https://img.shields.io/badge/Telegram-@elbek_damirov-0088cc?style=flat-square&logo=telegram" /></a>
