@@ -31,12 +31,13 @@
   - 🔧 Fullstack Program (8 months)  
     - ✅ **Backend (Finished)**: Node.js, Express, NestJS  
     - ✅ **Databases (Finished)**: MySQL, MongoDB, PostgreSQL  
-    - 🚀 **Currently in Frontend**: React (in-progress)
+    - ✅ **Frontend (Finished)**: React, Next
 
 
 - 🎓 **New Uzbekistan University** (Started: 25th August 2025)  
   - Bachelor’s Degree (In-progress)  
-  - Focusing on **Computer Science & Cyber Security**  
+  - Focusing on **Computer Science & Cyber Security**
+  - Learning Java
   <p align="left">
     <a href="https://newuu.uz"><img src="https://newuu.uz/assets/public/images/logo-light.svg" alt="New Uzbekistan University" width="80"/></a>
   </p>
